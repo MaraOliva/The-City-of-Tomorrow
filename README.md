@@ -1,4 +1,4 @@
-# Journal of Digital History Author's Repository
+# City of Tomorrow Paper
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH/main?filepath=article.ipynb)
 
